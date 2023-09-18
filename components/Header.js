@@ -366,7 +366,7 @@ const Header = () => {
             <a href="https://zbytes2227.github.io" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@Ujjwal_Kushwaha</a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-            @zbytes2227
+          <Link href="/about" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">About</Link>
           </span>
         </div>
       </footer>
