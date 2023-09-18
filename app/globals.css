@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ef4444;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c42a2a;
+}
+
+*{
+  -webkit-tap-highlight-color: transparent;
+}

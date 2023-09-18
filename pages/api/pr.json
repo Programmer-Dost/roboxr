@@ -1,0 +1,539 @@
+[
+    {
+      "productName": "HM-10 Bluetooth Module",
+      "productId": 2001,
+      "productPrice": 299,
+      "productTags": ["iot", "Bluetooth Module", "Wireless Communication", "IoT Projects"],
+      "productImage": "https://i.ibb.co/S5xSpv2/HM-10-Bluetooth-Module-1024x1024-2x-1.jpg",
+      "productDescription": "The HM-10 Bluetooth Module is a versatile IoT communication module that allows wireless communication between devices. It is widely used in home automation, wearable devices, and more."
+    },
+    {
+      "productName": "RC522 RFID Reader/Writer Module",
+      "productId": 2002,
+      "productPrice": 399,
+      "productTags": ["iot", "RFID Module", "Access Control", "Inventory Management"],
+      "productImage": "https://i.ibb.co/TRF1s0m/RC522-RFID-Reader-Writer-Module-1024x1024-2x.jpg",
+      "productDescription": "The RC522 RFID Reader/Writer Module is ideal for IoT projects involving RFID card reading and writing. It offers great flexibility and security for access control and inventory management applications."
+    },
+    {
+      "productName": "A2212 10T 13T 1000KV BLDC Drone Motor",
+      "productId": 2003,
+      "productPrice": 349,
+      "productTags": ["drone", "BLDC Motor", "UAVs", "Brushless Motor"],
+      "productImage": "https://i.ibb.co/ts9kv5P/A221210-T13-T1000-KVBLDCDrone-Motor-1024x1024-2x.jpg",
+      "productDescription": "The A2212 10T 13T 1000KV BLDC Drone Motor is a high-performance brushless motor designed for use in drones and other unmanned aerial vehicles (UAVs). It provides excellent thrust and efficiency for smooth flight operations."
+    },
+    {
+      "productName": "KY-036 Metal Touch Sensor Module",
+      "productId": 2004,
+      "productPrice": 29,
+      "productTags": ["electronics", "Touch Sensor Module", "Proximity Sensor", "Interactive Displays"],
+      "productImage": "https://i.ibb.co/Gs0FkTL/KY-036-metal-touch-sensor-module-1024x1024-2x.jpg",
+      "productDescription": "The KY-036 Metal Touch Sensor Module is used for detecting touch or proximity in electronic projects. It is a reliable and sensitive sensor that can be easily integrated into various applications, including interactive displays and robotics."
+    },
+    {
+      "productName": "MX1508 DC Motor Driver Module",
+      "productId": 2005,
+      "productPrice": 89,
+      "productTags": ["electronics", "Motor Driver Module", "DC Motor Control", "Robotics"],
+      "productImage": "https://i.ibb.co/m99QZn7/MX1508-DC-Motor-Driver-1024x1024-2x.jpg",
+      "productDescription": "The MX1508 DC Motor Driver Module is an essential component for controlling DC motors in robotics and automation projects. It provides dual H-bridge motor drivers for precise and efficient motor control."
+    },
+    {
+      "productName": "5V Relay Module for ESP-01S Wi-Fi Module",
+      "productId": 2006,
+      "productPrice": 49,
+      "productTags": ["iot", "Relay Module", "Home Automation", "IoT Projects"],
+      "productImage": "https://i.ibb.co/RbsfCNW/5-V-Relay-Module-for-ESP-01-S-Wi-Fi-Module-1024x1024-2x-1.jpg",
+      "productDescription": "The 5V Relay Module is designed for use with the ESP-01S Wi-Fi Module in IoT and home automation projects. It allows you to control high-voltage devices remotely and is suitable for various smart home applications."
+    },
+    {
+      "productName": "SIM900 GSM module",
+      "productId": 2007,
+      "productPrice": 199,
+      "productTags": ["iot", "GSM Module", "Wireless Communication", "IoT Projects"],
+      "productImage": "https://i.ibb.co/m523PQ4/SIM900-GSM-module-1024x1024-2x.jpg",
+      "productDescription": "The SIM900 GSM module is a compact and versatile module that enables GSM/GPRS communication in IoT projects. It's commonly used for sending SMS, making calls, and connecting devices to the internet over cellular networks."
+    },
+    {
+      "productName": "Micro SD Card Reader Module",
+      "productId": 2008,
+      "productPrice": 59,
+      "productTags": ["electronics", "SD Card Reader", "Data Storage", "Microcontroller Projects"],
+      "productImage": "https://i.ibb.co/LrcXknz/Micro-SD-Card-Reader-1024x1024-2x.jpg",
+      "productDescription": "The Micro SD Card Reader Module is a convenient way to add data storage to your microcontroller projects. It provides easy access to read and write data to microSD cards, making it suitable for data logging and storage applications."
+    },
+    {
+      "productName": "4x4 Matrix Keyboard Module",
+      "productId": 2009,
+      "productPrice": 79,
+      "productTags": ["electronics", "Matrix Keyboard Module", "Keypad Interface", "Microcontroller Projects"],
+      "productImage": "https://i.ibb.co/yRR6BG2/4x4-matrix-keyboard-1024x1024-2x.jpg",
+      "productDescription": "The 4x4 Matrix Keyboard Module is a compact and easy-to-use keypad interface for microcontroller-based projects. It provides 16 keys in a 4x4 matrix arrangement and is commonly used for input in various applications."
+    },
+    {
+      "productName": "NEO-6M V2 GPS module",
+      "productId": 2010,
+      "productPrice": 119,
+      "productTags": ["electronics", "GPS Module", "Location Tracking", "Navigation"],
+      "productImage": "https://i.ibb.co/Nn7v6wH/NEO6-MV2-gps-module-9-1024x1024-2x.jpg",
+      "productDescription": "The NEO-6M V2 GPS module is a reliable and cost-effective solution for adding GPS location tracking to your projects. It provides accurate positioning data and is commonly used in navigation, tracking, and mapping applications."
+    },
+    {
+      "productName": "USB to TTL Converter Module (CH340G)",
+      "productId": 2011,
+      "productPrice": 49,
+      "productTags": ["electronics", "USB to TTL Converter", "Serial Communication", "Microcontroller Projects"],
+      "productImage": "https://i.ibb.co/PWm0Zgw/USB-to-TTL-Converter-Module-9975-1024x1024-2x.jpg",
+      "productDescription": "The USB to TTL Converter Module (CH340G) allows you to establish a serial communication interface between your computer and microcontroller-based projects. It's a handy tool for programming and debugging microcontrollers."
+    },
+    {
+      "productName": "TTP223 1-Channel Capacitive Touch Sensor Module",
+      "productId": 2012,
+      "productPrice": 39,
+      "productTags": ["electronics", "Touch Sensor Module", "Capacitive Touch", "Interactive Projects"],
+      "productImage": "https://i.ibb.co/zVWQTx1/TTP223-1-Channel-Capacitive-Touch-Sensor-1024x1024-2x.jpg",
+      "productDescription": "The TTP223 1-Channel Capacitive Touch Sensor Module is a simple and reliable touch-sensitive module. It can detect touch or proximity and is commonly used in interactive projects, such as touch-sensitive switches and interfaces."
+    },
+    {
+      "productName": "NRF24L01+ RF module",
+      "productId": 2013,
+      "productPrice": 69,
+      "productTags": ["electronics", "RF Module", "Wireless Communication", "Microcontroller Projects"],
+      "productImage": "https://i.ibb.co/KVgyJQs/NRF24-L01-RF-module-1024x1024-2x.jpg",
+      "productDescription": "The NRF24L01+ RF module is a versatile wireless communication module that operates on the 2.4GHz band. It's commonly used for establishing wireless connections between microcontrollers and is suitable for various IoT and robotics applications."
+    },
+    {
+      "productName": "RF Transceiver Module with SMA Antenna",
+      "productId": 2014,
+      "productPrice": 99,
+      "productTags": ["electronics", "RF Transceiver Module", "Wireless Communication", "IoT Projects"],
+      "productImage": "https://i.ibb.co/pdjykLF/RF-Transceiver-Module-with-SMA-Antenna-1024x1024-2x.jpg",
+      "productDescription": "The RF Transceiver Module with SMA Antenna is designed for long-range wireless communication in IoT and electronics projects. It offers reliable and efficient data transmission and reception capabilities."
+    },
+    {
+      "productName": "SIM800L GPRS/GSM Module",
+      "productId": 2015,
+      "productPrice": 179,
+      "productTags": ["iot", "GPRS/GSM Module", "Wireless Communication", "IoT Projects"],
+      "productImage": "https://i.ibb.co/0Bm5MB4/SIM800-LGPRSGSMModule-Quad-Band-TTLSerial-Port-KG258-1024x1024-2x.jpg",
+      "productDescription": "The SIM800L GPRS/GSM Module is a quad-band module that provides GPRS and GSM communication capabilities for IoT applications. It allows devices to connect to cellular networks for data transmission and remote control."
+    },
+    {
+      "productName": "RF Transmitter Receiver Module",
+      "productId": 2016,
+      "productPrice": 59,
+      "productTags": ["electronics", "RF Module", "Wireless Communication", "Remote Control"],
+      "productImage": "https://i.ibb.co/025zg6H/RF-Transmitter-Receiver-Module-1024x1024-2x.jpg",
+      "productDescription": "The RF Transmitter Receiver Module is a pair of wireless modules designed for remote control and data transmission. It operates in the 433MHz frequency range and is commonly used in remote control systems and wireless data links."
+    },
+    {
+      "productName": "PWM Motor Speed Controller",
+      "productId": 2017,
+      "productPrice": 69,
+      "productTags": ["electronics", "Motor Speed Controller", "PWM Control", "Motor Control"],
+      "productImage": "https://i.ibb.co/3sDY4pX/PWM-Motor-Speed-Controller-1024x1024-2x.jpg",
+      "productDescription": "The PWM Motor Speed Controller is a compact module that allows you to control the speed of DC motors using PWM (Pulse Width Modulation) signals. It's suitable for a wide range of motor control applications."
+    },
+    {
+      "productName": "Thermoelectric Peltier Cooler Module",
+      "productId": 2018,
+      "productPrice": 129,
+      "productTags": ["electronics", "Peltier Cooler Module", "Temperature Control", "Cooling Systems"],
+      "productImage": "https://i.ibb.co/rKB7hHx/Thermoelectric-Peltier-Cooler-Module-1024x1024-2x.jpg",
+      "productDescription": "The Thermoelectric Peltier Cooler Module is a versatile component that can both heat and cool, depending on the direction of the current flow. It's commonly used in temperature control and cooling systems."
+    },
+    {
+      "productName": "XL6009 Power Supply Module",
+      "productId": 2019,
+      "productPrice": 49,
+      "productTags": ["electronics", "Power Supply Module", "Voltage Booster", "Voltage Regulator"],
+      "productImage": "https://i.ibb.co/pzTcjTN/XL6009-power-supply-1024x1024-2x.jpg",
+      "productDescription": "The XL6009 Power Supply Module is a voltage booster and regulator that allows you to step up or step down voltage levels as needed. It's commonly used to power electronic circuits and devices."
+    },
+    {
+      "productName": "MT3608 Power Module",
+      "productId": 2020,
+      "productPrice": 39,
+      "productTags": ["electronics", "Power Module", "Voltage Booster", "Voltage Regulator"],
+      "productImage": "https://i.ibb.co/zPHmf8s/MT3608-power-module-1024x1024-2x.jpg",
+      "productDescription": "The MT3608 Power Module is a small and efficient voltage booster module. It's used to step up voltage levels and is suitable for various electronics and DIY projects."
+    },
+    {
+      "productName": "LM393 Photoelectric Sensor Module",
+      "productId": 2021,
+      "productPrice": 29,
+      "productTags": ["electronics", "Photoelectric Sensor", "Optical Sensor", "Object Detection"],
+      "productImage": "https://i.ibb.co/nC1V04g/LM393-Photoelectric-Sensor-Module-1024x1024-2x.jpg",
+      "productDescription": "The LM393 Photoelectric Sensor Module is an optical sensor that can be used for object detection and automation applications. It's commonly used in DIY projects and robotics for detecting the presence or absence of objects."
+    },
+    {
+      "productName": "Hot Melt Glue Gun",
+      "productId": 2022,
+      "productPrice": 59,
+      "productTags": ["tools", "Glue Gun", "Crafts", "DIY Projects"],
+      "productImage": "https://i.ibb.co/Nr00sBZ/Hot-Melt-Glue-Gun-1024x1024-2x.jpg",
+      "productDescription": "The Hot Melt Glue Gun is a versatile tool for various DIY and crafting projects. It uses hot melt glue sticks to bond materials together quickly and securely. It's a must-have tool for hobbyists and craft enthusiasts."
+    },
+    {
+      "productName": "Max4466 Electret Microphone Amplifier with Adjustable Gain Module",
+      "productId": 2023,
+      "productPrice": 49,
+      "productTags": ["electronics", "Microphone Amplifier", "Audio Projects", "Sound Recording"],
+      "productImage": "https://i.ibb.co/DCPMWsx/Max4466-Electret-Microphone-Amplifier-with-Adjustable-Gain-Module-1024x1024-2x.jpg",
+      "productDescription": "The Max4466 Electret Microphone Amplifier Module is designed for capturing and amplifying audio signals. It includes adjustable gain control, making it suitable for various audio recording and sound detection applications."
+    },
+    {
+      "productName": "LM386 Module",
+      "productId": 2024,
+      "productPrice": 39,
+      "productTags": ["electronics", "Audio Amplifier", "DIY Audio", "Amplifier Module"],
+      "productImage": "https://i.ibb.co/d2p3S4k/LM386-modue-1024x1024-2x.jpg",
+      "productDescription": "The LM386 Module is a simple and compact audio amplifier module. It's commonly used in DIY audio projects and can amplify audio signals for speakers and headphones."
+    },
+    {
+      "productName": "ISD1820 Voice Recorder Module",
+      "productId": 2025,
+      "productPrice": 59,
+      "productTags": ["electronics", "Voice Recorder Module", "Audio Playback", "Sound Recording"],
+      "productImage": "https://i.ibb.co/C5x5Z6T/ISD1820-Voice-Recorder-Module-1024x1024-2x.jpg",
+      "productDescription": "The ISD1820 Voice Recorder Module allows you to record and play back audio messages. It's commonly used in electronic greeting cards, voice-activated systems, and sound recording applications."
+    },
+    {
+      "productName": "LM393 Sound Module",
+      "productId": 2026,
+      "productPrice": 29,
+      "productTags": ["electronics", "Sound Module", "Sound Detection", "DIY Projects"],
+      "productImage": "https://i.ibb.co/WxmHcF2/LM393-Sound-Module-1024x1024-2x.jpg",
+      "productDescription": "The LM393 Sound Module is a compact module for sound detection and sensitivity control. It's commonly used in DIY projects for detecting sound levels and triggering actions based on audio input."
+    },
+    {
+      "productName": "TDA2030 Audio Amplifier Module",
+      "productId": 2027,
+      "productPrice": 69,
+      "productTags": ["electronics", "Audio Amplifier", "DIY Audio", "Amplifier Module"],
+      "productImage": "https://i.ibb.co/Tg3vPB6/TDA2030-Audio-Amplifier-Module-1024x1024-2x.jpg",
+      "productDescription": "The TDA2030 Audio Amplifier Module is a high-performance audio amplifier that can be used in various DIY audio projects. It provides clear and powerful audio amplification for speakers and audio systems."
+    },
+    {
+      "productName": "Bluetooth 3.0 Audio Receiver Module",
+      "productId": 2028,
+      "productPrice": 79,
+      "productTags": ["electronics", "Bluetooth Module", "Audio Receiver", "Wireless Audio"],
+      "productImage": "https://i.ibb.co/R004zWK/Bluetooth-3-0-Audio-Receiver-Module1024x1024-2x.jpg",
+      "productDescription": "The Bluetooth 3.0 Audio Receiver Module allows you to add wireless audio streaming capabilities to your audio systems and speakers. It's compatible with various Bluetooth-enabled devices."
+    },
+    {
+      "productName": "MQ-5 Methane LPG Gas Sensor Module",
+      "productId": 2029,
+      "productPrice": 79,
+      "productTags": ["electronics", "Gas Sensor Module", "Methane Sensor", "Gas Detection"],
+      "productImage": "https://i.ibb.co/DMD3znC/MQ-5-Methane-LPG-Gas-Sensor-Module-1024x1024-2x.jpg",
+      "productDescription": "The MQ-5 Methane LPG Gas Sensor Module is designed for the detection of methane and LPG gases. It's commonly used in gas leak detection systems and safety applications."
+    },
+    {
+        "productName": "Laser Diode",
+        "productId": 2030,
+        "productPrice": 19,
+        "productTags": ["electronics", "Laser Diode", "Laser Module", "DIY Projects"],
+        "productImage": "https://i.ibb.co/fMbNjCQ/Laser-Diode-1024x102024x1024-2x.jpg",
+        "productDescription": "The Laser Diode module is a compact laser source suitable for various DIY projects and experiments. It emits a low-power laser beam for various applications, including laser pointers and light shows."
+      },
+      {
+        "productName": "TP4056 Battery Charging Micro USB",
+        "productId": 2031,
+        "productPrice": 29,
+        "productTags": ["electronics", "Battery Charger", "Battery Charging Module", "Micro USB"],
+        "productImage": "https://i.ibb.co/qM3qMgj/TP4056-Battery-Charging-Micro-USB-1024x1024-2x.jpg",
+        "productDescription": "The TP4056 Battery Charging Module is a versatile micro USB charger for lithium-ion and lithium-polymer batteries. It's commonly used in DIY electronics projects for recharging batteries."
+      },
+      {
+        "productName": "RCWL-0516 Micro Wave RADAR Sensor Module",
+        "productId": 2032,
+        "productPrice": 39,
+        "productTags": ["electronics", "RADAR Sensor", "Motion Detection", "Sensor Module"],
+        "productImage": "https://i.ibb.co/CzGjn3Z/RCWL-0516-Micro-Wave-RADAR-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The RCWL-0516 Micro Wave RADAR Sensor Module is used for motion detection and proximity sensing. It's a versatile sensor commonly used in security and automation projects."
+      },
+      {
+        "productName": "5V Relay Module for ESP-01 S Wi-Fi Module",
+        "productId": 2033,
+        "productPrice": 19,
+        "productTags": ["electronics", "Relay Module", "IoT Projects", "Home Automation"],
+        "productImage": "https://i.ibb.co/RbsfCNW/5-V-Relay-Module-for-ESP-01-S-Wi-Fi-Module-1024x1024-2x-1.jpg",
+        "productDescription": "The 5V Relay Module is designed for use with the ESP-01 S Wi-Fi Module. It allows you to control high-power devices and appliances remotely, making it ideal for home automation and IoT projects."
+      },
+      {
+        "productName": "LM2596 Step-Down Power Module",
+        "productId": 2034,
+        "productPrice": 29,
+        "productTags": ["electronics", "Voltage Regulator", "Power Module", "DIY Electronics"],
+        "productImage": "https://i.ibb.co/LgrVcBx/ESP8266-Node-MCU-1024x1024-2x.jpg",
+        "productDescription": "The LM2596 Step-Down Power Module is a versatile voltage regulator module used in DIY electronics projects. It provides stable and adjustable power output for various applications."
+      },
+      {
+        "productName": "Raspberry Pi 3 Model B",
+        "productId": 2036,
+        "productPrice": 99,
+        "productTags": ["electronics", "Raspberry Pi", "Single-Board Computer", "DIY Computing"],
+        "productImage": "https://i.ibb.co/R4Zz2x9/Raspberry-Pi-3-Model-B-1024x1024-2x.jpg",
+        "productDescription": "The Raspberry Pi 3 Model B is a versatile single-board computer used for various DIY computing and electronics projects. It offers a powerful and compact computing platform."
+      },
+      {
+        "productName": "Arduino Uno R3",
+        "productId": 2037,
+        "productPrice": 49,
+        "productTags": ["electronics", "Arduino Uno", "Microcontroller", "DIY Electronics"],
+        "productImage": "https://i.ibb.co/0fKw1xR/Arduino-Uno-R3-1024x1024-2x.jpg",
+        "productDescription": "The Arduino Uno R3 is a widely used microcontroller board in the Arduino family. It's perfect for prototyping and creating various electronics projects and IoT applications."
+      },
+      {
+        "productName": "ESP8266 Node-MCU",
+        "productId": 2038,
+        "productPrice": 39,
+        "productTags": ["electronics", "ESP8266", "IoT Module", "Wireless Connectivity"],
+        "productImage": "https://i.ibb.co/9Wxy7tw/ESP8266-Node-MCU-1024x1024-2x.jpg",
+        "productDescription": "The ESP8266 Node-MCU is a popular IoT module known for its wireless connectivity capabilities. It's commonly used for IoT and home automation projects."
+      },
+      {
+        "productName": "DHT22 (AM2302) Digital Temperature Humidity Sensor Module",
+        "productId": 2039,
+        "productPrice": 29,
+        "productTags": ["electronics", "Sensor Module", "Temperature Sensor", "Humidity Sensor"],
+        "productImage": "https://i.ibb.co/m9HNPTC/DHT22-AM2302-Digital-Temperature-Humidity-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The DHT22 (AM2302) Digital Temperature Humidity Sensor Module is used for monitoring temperature and humidity. It's commonly used in weather stations, environmental monitoring, and IoT projects."
+      },
+      {
+        "productName": "MQ-2 Gas Sensor Module",
+        "productId": 2040,
+        "productPrice": 29,
+        "productTags": ["electronics", "Gas Sensor Module", "Gas Detection", "Air Quality"],
+        "productImage": "https://i.ibb.co/1vLqkfS/MQ-2-Gas-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The MQ-2 Gas Sensor Module is designed for detecting various gases, including LPG, propane, methane, and smoke. It's commonly used in gas leak detection and air quality monitoring."
+      },
+      {
+        "productName": "MQ-7 Carbon Monoxide (CO) Gas Sensor Module",
+        "productId": 2041,
+        "productPrice": 29,
+        "productTags": ["electronics", "Gas Sensor Module", "Carbon Monoxide", "Air Quality"],
+        "productImage": "https://i.ibb.co/7K5nD0r/MQ-7-Carbon-Monoxide-CO-Gas-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The MQ-7 Carbon Monoxide (CO) Gas Sensor Module is used for detecting carbon monoxide gas. It's commonly used in safety and air quality monitoring applications."
+      },
+      {
+        "productName": "MQ-3 Alcohol Ethanol Gas Sensor Module",
+        "productId": 2042,
+        "productPrice": 29,
+        "productTags": ["electronics", "Gas Sensor Module", "Alcohol Sensor", "Breathalyzer"],
+        "productImage": "https://i.ibb.co/yR0NTYT/MQ-3-Alcohol-Ethanol-Gas-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The MQ-3 Alcohol Ethanol Gas Sensor Module is designed for detecting alcohol and ethanol vapors. It's commonly used in breathalyzer devices and alcohol detection systems."
+      },
+      {
+        "productName": "MQ-8 Hydrogen Gas Sensor Module",
+        "productId": 2043,
+        "productPrice": 29,
+        "productTags": ["electronics", "Gas Sensor Module", "Hydrogen Sensor", "Gas Detection"],
+        "productImage": "https://i.ibb.co/BcD4Tz2/MQ-8-Hydrogen-Gas-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The MQ-8 Hydrogen Gas Sensor Module is used for detecting hydrogen gas. It's commonly used in gas leak detection and safety applications."
+      },
+      {
+        "productName": "MQ-9 Carbon Monoxide Methane Gas Sensor Module",
+        "productId": 2044,
+        "productPrice": 29,
+        "productTags": ["electronics", "Gas Sensor Module", "Carbon Monoxide", "Methane Sensor"],
+        "productImage": "https://i.ibb.co/2gsnQqy/MQ-9-Carbon-Monoxide-Methane-Gas-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The MQ-9 Carbon Monoxide Methane Gas Sensor Module is used for detecting carbon monoxide and methane gases. It's commonly used in gas leak detection and safety applications."
+      },
+      {
+        "productName": "MQ-135 Air Quality Sensor",
+        "productId": 2045,
+        "productPrice": 29,
+        "productTags": ["electronics", "Air Quality Sensor", "Gas Sensor Module", "Environmental Monitoring"],
+        "productImage": "https://i.ibb.co/bBnKN0L/MQ-135-Air-Quality-Sensor-1024x1024-2x.jpg",
+        "productDescription": "The MQ-135 Air Quality Sensor is designed for monitoring a wide range of air pollutants. It's commonly used in air quality monitoring and environmental sensing applications."
+      },
+      {
+        "productName": "DS18B20 Temperature Sensor Module",
+        "productId": 2046,
+        "productPrice": 19,
+        "productTags": ["electronics", "Temperature Sensor", "DS18B20", "Thermometer"],
+        "productImage": "https://i.ibb.co/H4tvqt2/DS18B20-Temperature-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The DS18B20 Temperature Sensor Module is used for accurate temperature measurements. It's commonly used in thermometers, weather stations, and temperature control systems."
+      },
+      {
+        "productName": "HC-SR04 Ultrasonic Sensor",
+        "productId": 2047,
+        "productPrice": 19,
+        "productTags": ["electronics", "Ultrasonic Sensor", "Distance Measurement", "Arduino"],
+        "productImage": "https://i.ibb.co/sCtJMhH/HC-SR04-Ultrasonic-Sensor-1024x1024-2x.jpg",
+        "productDescription": "The HC-SR04 Ultrasonic Sensor is used for measuring distance by sending and receiving ultrasonic pulses. It's commonly used in robotics, obstacle avoidance, and distance measurement applications."
+      },
+      {
+        "productName": "LM2596 Step-Down Power Module",
+        "productId": 2048,
+        "productPrice": 29,
+        "productTags": ["electronics", "Voltage Regulator", "Power Module", "DIY Electronics"],
+        "productImage": "https://i.ibb.co/Xsn9d9X/5m-Waterproof-LED-Strip-1024x1024-2x.jpg",
+        "productDescription": "The LM2596 Step-Down Power Module is a versatile voltage regulator module used in DIY electronics projects. It provides stable and adjustable power output for various applications."
+      },
+      {
+        "productName": "8x8 RGB LED Matrix",
+        "productId": 2049,
+        "productPrice": 29,
+        "productTags": ["electronics", "LED Matrix", "RGB LED", "Display Module"],
+        "productImage": "https://i.ibb.co/CzPxB4k/ESP8266-Node-MCU-1024x1024-2x.jpg",
+        "productDescription": "The 8x8 RGB LED Matrix is a colorful display module that can be used for creating dynamic visual effects. It's commonly used in electronic displays, art installations, and digital signage."
+      },
+      {
+        "productName": "10-Segment LED Bar Graph Module",
+        "productId": 2050,
+        "productPrice": 19,
+        "productTags": ["electronics", "LED Bar Graph", "Visual Display", "DIY Projects"],
+        "productImage": "https://i.ibb.co/MVBtH9g/ESP8266-Node-MCU-1024x1024-2x.jpg",
+        "productDescription": "The 10-Segment LED Bar Graph Module is a visual display component that can indicate values or levels. It's commonly used in DIY electronics projects for creating level indicators and displays."
+      },
+      {
+        "productName": "7-Segment Display Module",
+        "productId": 2051,
+        "productPrice": 19,
+        "productTags": ["electronics", "7-Segment Display", "Digital Display", "Arduino"],
+        "productImage": "https://i.ibb.co/wMwvXBB/AT24C32-Real-Time-Clock-Module-1024x1024-2x.jpg",
+        "productDescription": "The 7-Segment Display Module is a digital display component with seven segments. It's commonly used for displaying numerical information in various electronic projects and devices."
+      },
+      {
+        "productName": "HC-SR501 Pyroelectric Infrared PIR Motion Sensor Module",
+        "productId": 2052,
+        "productPrice": 19,
+        "productTags": ["electronics", "PIR Sensor", "Motion Detection", "Security Systems"],
+        "productImage": "https://i.ibb.co/yWw4gTX/4-Channel-Relay-Module-1024x1024-2x.jpg",
+        "productDescription": "The HC-SR501 Pyroelectric Infrared (PIR) Motion Sensor Module is used for motion detection in security systems and automation projects. It detects infrared radiation emitted by moving objects."
+      },
+      {
+        "productName": "Vibration Sensor SW-420",
+        "productId": 2053,
+        "productPrice": 9,
+        "productTags": ["electronics", "Vibration Sensor", "Shock Detector", "Alarm Systems"],
+        "productImage": "https://i.ibb.co/jW7yVcq/3-Channel-Relay-Module-1024x1024-2x.jpg",
+        "productDescription": "The Vibration Sensor SW-420 is used for detecting vibrations and shocks. It's commonly used in alarm systems and vibration monitoring applications."
+      },
+      {
+        "productName": "HC-SR04 Ultrasonic Sensor",
+        "productId": 2054,
+        "productPrice": 19,
+        "productTags": ["electronics", "Ultrasonic Sensor", "Distance Measurement", "Arduino"],
+        "productImage": "https://i.ibb.co/5ntjB9k/16-Channel-12V-Relay-Module-1024x1024-2x.jpg",
+        "productDescription": "The HC-SR04 Ultrasonic Sensor is used for measuring distance by sending and receiving ultrasonic pulses. It's commonly used in robotics, obstacle avoidance, and distance measurement applications."
+      },
+      {
+        "productName": "8x8 RGB LED Matrix",
+        "productId": 2055,
+        "productPrice": 29,
+        "productTags": ["electronics", "LED Matrix", "RGB LED", "Display Module"],
+        "productImage": "https://i.ibb.co/RDVYZxM/8x8-RGB-LED-Matrix-1024x1024-2x.jpg",
+        "productDescription": "The 8x8 RGB LED Matrix is a colorful display module that can be used for creating dynamic visual effects. It's commonly used in electronic displays, art installations, and digital signage."
+      },
+      {
+        "productName": "5m Waterproof LED Strip",
+        "productId": 2056,
+        "productPrice": 49,
+        "productTags": ["electronics", "LED Strip", "Waterproof", "Lighting"],
+        "productImage": "https://i.ibb.co/Xsn9d9X/5m-Waterproof-LED-Strip-1024x1024-2x.jpg",
+        "productDescription": "The 5m Waterproof LED Strip is a flexible and waterproof lighting solution. It's commonly used for accent lighting, decoration, and DIY lighting projects."
+      },
+      {
+        "productName": "ESP8266 Node-MCU",
+        "productId": 2057,
+        "productPrice": 39,
+        "productTags": ["electronics", "ESP8266", "IoT Module", "Wireless Connectivity"],
+        "productImage": "https://i.ibb.co/sCtJMhH/HC-SR04-Ultrasonic-Sensor-1024x1024-2x.jpg",
+        "productDescription": "The ESP8266 Node-MCU is a popular IoT module known for its wireless connectivity capabilities. It's commonly used for IoT and home automation projects."
+      },
+      {
+        "productName": "ESP8266 Node-MCU",
+        "productId": 2058,
+        "productPrice": 39,
+        "productTags": ["electronics", "ESP8266", "IoT Module", "Wireless Connectivity"],
+        "productImage": "https://i.ibb.co/0CKj5C2/HC-SR501-Pyroelectric-Infrared-PIR-Motion-Sensor-Module-1024x1024-2x.jpg",
+        "productDescription": "The ESP8266 Node-MCU is a popular IoT module known for its wireless connectivity capabilities. It's commonly used for IoT and home automation projects."
+      },
+      {
+        "productName": "AT24C32 Real-Time Clock Module",
+        "productId": 2059,
+        "productPrice": 19,
+        "productTags": ["electronics", "Real-Time Clock", "RTC Module", "Timekeeping"],
+        "productImage": "https://i.ibb.co/3k2yRb3/Vibration-Sensor-SW-420-1024x1024-2x.jpg",
+        "productDescription": "The AT24C32 Real-Time Clock Module is used for accurate timekeeping in electronics projects. It's commonly used in data logging, scheduling, and time-sensitive applications."
+      },
+      {
+        "productName": "4-Channel Relay Module",
+        "productId": 2060,
+        "productPrice": 29,
+        "productTags": ["electronics", "Relay Module", "Control Switches", "Home Automation"],
+        "productImage": "https://i.ibb.co/5K28P2S/4-Channel-Relay-Module-1024x1024-2x.jpg",
+        "productDescription": "The 4-Channel Relay Module is used for controlling high-power devices and appliances. It's commonly used in home automation and remote control projects."
+      },
+      {
+        "productName": "3-Channel Relay Module",
+        "productId": 2061,
+        "productPrice": 19,
+        "productTags": ["electronics", "Relay Module", "Control Switches", "DIY Electronics"],
+        "productImage": "https://i.ibb.co/5JcRkTh/3-Channel-Relay-Module-1024x1024-2x.jpg",
+        "productDescription": "The 3-Channel Relay Module is used for controlling multiple high-power devices. It's commonly used in DIY electronics projects and automation applications."
+      },
+      {
+        "productName": "16-Channel 12V Relay Module",
+        "productId": 2062,
+        "productPrice": 49,
+        "productTags": ["electronics", "Relay Module", "Control Switches", "Automation"],
+        "productImage": "https://i.ibb.co/CzPxB4k/ESP8266-Node-MCU-1024x1024-2x.jpg",
+        "productDescription": "The 16-Channel 12V Relay Module is designed for controlling a large number of high-power devices. It's commonly used in automation and industrial control systems."
+      },
+      {
+        "productName": "Rotary Encoder",
+        "productId": 2063,
+        "productPrice": 9,
+        "productTags": ["electronics", "Rotary Encoder", "Encoder Module", "Arduino"],
+        "productImage": "https://i.ibb.co/GPbPzGv/Rotary-Encoder-1024x1024-2x.jpg",
+        "productDescription": "The Rotary Encoder is an input device used to measure the position and rotation of a knob or shaft. It's commonly used in Arduino projects and digital interfaces."
+      },
+      {
+        "productName": "A4988 Stepper Motor Driver Module",
+        "productId": 2064,
+        "productPrice": 12,
+        "productTags": ["electronics", "Stepper Motor Driver", "Motor Control", "CNC"],
+        "productImage": "https://i.ibb.co/KVjwRmF/A4988-Stepper-Motor-Driver-Module-1024x1024-2x.jpg",
+        "productDescription": "The A4988 Stepper Motor Driver Module is used for precise control of stepper motors. It's commonly used in CNC machines, 3D printers, and robotics projects."
+      },
+      {
+        "productName": "L298N Dual H-Bridge DC Motor Driver Module",
+        "productId": 2065,
+        "productPrice": 14,
+        "productTags": ["electronics", "Motor Driver", "H-Bridge", "Robotics"],
+        "productImage": "https://i.ibb.co/MgMqrFN/L298N-Dual-H-Bridge-DC-Motor-Driver-Module-1024x1024-2x.jpg",
+        "productDescription": "The L298N Dual H-Bridge DC Motor Driver Module is designed for controlling DC motors in both directions. It's commonly used in robotics and motor control applications."
+      },
+      {
+        "productName": "TP4056 Battery Charging Micro USB",
+        "productId": 2066,
+        "productPrice": 5,
+        "productTags": ["electronics", "Battery Charger", "USB Charging", "LiPo Battery"],
+        "productImage": "https://i.ibb.co/3d7cpTc/TP4056-Battery-Charging-Micro-USB-1024x1024-2x.jpg",
+        "productDescription": "The TP4056 Battery Charging Module with Micro USB is used for charging Lithium-Polymer (LiPo) batteries. It's commonly used in portable electronics and DIY power banks."
+      },
+      {
+        "productName": "DS3231 Real-Time Clock Module",
+        "productId": 2067,
+        "productPrice": 8,
+        "productTags": ["electronics", "Real-Time Clock", "RTC Module", "Arduino"],
+        "productImage": "https://i.ibb.co/vDwGfqd/DS3231-Real-Time-Clock-Module-1024x1024-2x.jpg",
+        "productDescription": "The DS3231 Real-Time Clock Module is used for accurate timekeeping in Arduino and electronics projects. It provides precise time and date information."
+      },
+      {
+        "productName": "16-Channel 12V Relay Module",
+        "productId": 2068,
+        "productPrice": 49,
+        "productTags": ["electronics", "Relay Module", "Control Switches", "Automation"],
+        "productImage": "https://i.ibb.co/CzPxB4k/ESP8266-Node-MCU-1024x1024-2x.jpg",
+        "productDescription": "The 16-Channel 12V Relay Module is designed for controlling a large number of high-power devices. It's commonly used in automation and industrial control systems."
+      }
+  ]
+  
