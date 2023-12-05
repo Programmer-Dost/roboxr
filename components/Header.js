@@ -363,7 +363,7 @@ const Header = () => {
             <span className="ml-3 text-xl">RoboX Shop</span>
           </a>
           <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2023 RoboX Shop —
-            <a href="https://zbytes2227.github.io" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@Ujjwal_Kushwaha</a>
+            <a href="https://yourjinnietechsolutions.com/" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">YourJinnie - Tech Solutions</a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           <Link href="/about" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">About</Link>
