@@ -362,7 +362,7 @@ const Header = () => {
             <Image src={"/logo_512.png"} height={100} width={100} alt='footerImage' />
             <span className="ml-3 text-xl">RoboX Shop</span>
           </a>
-          <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2023 RoboX Shop —
+          <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2024 RoboX Shop —
             <a href="https://zbytes.vercel.app/" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">By - Ujjwal Kushwaha</a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
